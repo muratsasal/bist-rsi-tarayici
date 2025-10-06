@@ -149,12 +149,12 @@ def main():
     # RSI < SMA olanlar
     message_parts.append(f"*📉 RSI < SMA ({len(below_sma_results)} hisse):*")
     if below_sma_results:
-        for stock in below_sma_results[:10]:  # İlk 10 hisse
+        for stock in below_sma_results[:50]:  # İlk 50 hisse
             message_parts.append(
                 f"• {stock['symbol']}: RSI {stock['rsi']:.2f} < SMA {stock['sma']:.2f}"
             )
-        if len(below_sma_results) > 10:
-            message_parts.append(f"... ve {len(below_sma_results) - 10} hisse daha")
+        if len(below_sma_results) > 50:
+            message_parts.append(f"... ve {len(below_sma_results) - 50} hisse daha")
     else:
         message_parts.append("Koşulu sağlayan hisse yok")
     
