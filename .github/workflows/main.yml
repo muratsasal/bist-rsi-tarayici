@@ -8,6 +8,10 @@ on:
   # Manuel olarak da çalıştırılabilir
   workflow_dispatch:
 
+# GitHub Actions'a yazma yetkisi ver
+permissions:
+  contents: write
+
 jobs:
   analyze:
     runs-on: ubuntu-latest
@@ -29,15 +33,14 @@ jobs:
       run: |
         python bist_analyzer.py
     
-    - name: Sonuçları commit et
+    - name: Sonuçları commit ve push et
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add results.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Otomatik analiz sonuçları - $(date +'%Y-%m-%d %H:%M')"
-    
-    - name: Değişiklikleri push et
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        if ! git diff --quiet --staged; then
+          git commit -m "🤖 Otomatik analiz sonuçları - $(date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "Değişiklik yok, push atlanıyor"
+        fi
