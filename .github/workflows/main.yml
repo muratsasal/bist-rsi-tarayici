@@ -1,0 +1,43 @@
+name: BIST 100 RSI Haftalık Analiz
+
+on:
+  # Her Pazartesi saat 09:00'da çalış (Türkiye saati yaklaşık 12:00)
+  schedule:
+    - cron: '0 9 * * 1'
+  
+  # Manuel olarak da çalıştırılabilir
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout kod
+      uses: actions/checkout@v3
+    
+    - name: Python kurulumu
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Gerekli paketleri yükle
+      run: |
+        pip install yfinance pandas numpy requests
+    
+    - name: BIST analizi çalıştır
+      run: |
+        python bist_analyzer.py
+    
+    - name: Sonuçları commit et
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add results.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Otomatik analiz sonuçları - $(date +'%Y-%m-%d %H:%M')"
+    
+    - name: Değişiklikleri push et
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
