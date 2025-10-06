@@ -52,7 +52,7 @@ def save_results_to_json(below_sma_results, crossover_results, filename="results
     print(f"✅ Sonuçlar {filename} dosyasına kaydedildi")
 
 def main():
-    print("🚀 BIST 100 RSI Tarayıcı Başlatıldı")
+    print("🚀 NDX RSI Tarayıcı Başlatıldı")
     print(f"📅 Tarih: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"📊 Toplam {len(SYMBOLS)} hisse analiz edilecek\n")
     
@@ -126,7 +126,7 @@ def main():
     message_parts = []
     
     # Başlık
-    message_parts.append(f"*📈 BIST 100 RSI Tarayıcı*")
+    message_parts.append(f"*📈 NDX RSI Tarayıcı*")
     message_parts.append(f"📅 {datetime.now().strftime('%d.%m.%Y %H:%M')}\n")
     
     # RSI < SMA olanlar
