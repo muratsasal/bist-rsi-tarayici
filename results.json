@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-10-06T07:21:00",
+  "below_sma": [
+    {
+      "symbol": "GARAN",
+      "rsi": 53.08,
+      "sma": 53.31
+    },
+    {
+      "symbol": "THYAO",
+      "rsi": 51.43,
+      "sma": 51.87
+    },
+    {
+      "symbol": "ISCTR",
+      "rsi": 45.56,
+      "sma": 49.39
+    },
+    {
+      "symbol": "AKBNK",
+      "rsi": 46.58,
+      "sma": 51.14
+    },
+    {
+      "symbol": "VAKBN",
+      "rsi": 49.91,
+      "sma": 53.81
+    },
+    {
+      "symbol": "TCELL",
+      "rsi": 49.78,
+      "sma": 50.41
+    },
+    {
+      "symbol": "SAHOL",
+      "rsi": 45.04,
+      "sma": 48.01
+    },
+    {
+      "symbol": "TTKOM",
+      "rsi": 51.63,
+      "sma": 54.51
+    },
+    {
+      "symbol": "PGSUS",
+      "rsi": 47.75,
+      "sma": 53.00
+    },
+    {
+      "symbol": "GUBRF",
+      "rsi": 50.54,
+      "sma": 55.70
+    }
+  ],
+  "crossovers": [
+    {
+      "symbol": "HALKB",
+      "current_rsi": 62.27,
+      "current_sma": 61.22,
+      "previous_rsi": 58.50,
+      "previous_sma": 60.15
+    },
+    {
+      "symbol": "SMRTG",
+      "current_rsi": 39.21,
+      "current_sma": 39.00,
+      "previous_rsi": 37.80,
+      "previous_sma": 38.90
+    },
+    {
+      "symbol": "BERA",
+      "current_rsi": 53.12,
+      "current_sma": 51.62,
+      "previous_rsi": 49.20,
+      "previous_sma": 51.00
+    }
+  ]
+}
