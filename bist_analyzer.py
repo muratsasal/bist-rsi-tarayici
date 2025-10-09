@@ -131,7 +131,7 @@ def save_results_to_json(below_sma_results, crossover_results, filename="results
     print(f"✅ Sonuçlar {filename} dosyasına kaydedildi")
 
 def main():
-    print("🚀 BIST 100 RSI Tarayıcı Başlatıldı")
+    print("🚀 BIST RSI Tarayıcı Başlatıldı")
     print(f"📅 Tarih: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"📊 Toplam {len(SYMBOLS)} hisse analiz edilecek\n")
     
@@ -147,7 +147,7 @@ def main():
             
             # Haftalık veriyi çek
             stock = yf.Ticker(symbol)
-            df = stock.history(period="2y", interval="1wk")
+            df = stock.history(period="5y", interval="1wk")
             
             if df.empty or len(df) < 32:
                 print("❌ Yetersiz veri")
