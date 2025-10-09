@@ -205,7 +205,7 @@ def main():
     message_parts = []
     
     # Başlık
-    message_parts.append(f"*📈 BIST 100 RSI Tarayıcı*")
+    message_parts.append(f"*📈 BIST RSI Tarayıcı*")
     message_parts.append(f"📅 {datetime.now().strftime('%d.%m.%Y %H:%M')}\n")
     
     # RSI < SMA olanlar
