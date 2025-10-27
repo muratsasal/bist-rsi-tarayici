@@ -1,1436 +1,200 @@
 {
-  "timestamp": "2025-10-27T09:22:53.880053",
+  "timestamp": "2025-10-27T09:26:12.656540",
   "below_sma": [
     {
-      "symbol": "ADESE",
-      "rsi": 77.12082572512863,
-      "sma": 78.43132695651705
+      "symbol": "ADP",
+      "rsi": 46.61288464172988,
+      "sma": 53.17638675282844
     },
     {
-      "symbol": "AHGAZ",
-      "rsi": 57.09835476532863,
-      "sma": 65.70089678032929
+      "symbol": "AMGN",
+      "rsi": 46.297898618235294,
+      "sma": 48.61390285262959
     },
     {
-      "symbol": "AKCNS",
-      "rsi": 40.08623440788351,
-      "sma": 45.071919215944966
+      "symbol": "AXON",
+      "rsi": 58.4218045469065,
+      "sma": 58.90900358526285
     },
     {
-      "symbol": "ALCAR",
-      "rsi": 49.23023475372926,
-      "sma": 51.79935709011324
+      "symbol": "BKNG",
+      "rsi": 56.34870379710878,
+      "sma": 57.36938856578999
     },
     {
-      "symbol": "ALTNY",
-      "rsi": 37.359435329527216,
-      "sma": 46.243375787924954
+      "symbol": "CCEP",
+      "rsi": 57.27902132117439,
+      "sma": 61.1500260469196
     },
     {
-      "symbol": "ANELE",
-      "rsi": 52.451271418982785,
-      "sma": 58.61724144506698
+      "symbol": "CHTR",
+      "rsi": 36.944135752882985,
+      "sma": 47.673364875460614
     },
     {
-      "symbol": "ARCLK",
-      "rsi": 42.51565252669539,
-      "sma": 44.9782744839575
+      "symbol": "CMCSA",
+      "rsi": 34.62705978653692,
+      "sma": 41.420065835666136
     },
     {
-      "symbol": "ARENA",
-      "rsi": 45.9039962188554,
-      "sma": 50.808626816730296
+      "symbol": "CPRT",
+      "rsi": 39.81838751502064,
+      "sma": 44.602369191988316
     },
     {
-      "symbol": "ASELS",
-      "rsi": 69.44212929847436,
-      "sma": 74.65799530941594
+      "symbol": "CSGP",
+      "rsi": 49.673202785914434,
+      "sma": 54.159635145958745
     },
     {
-      "symbol": "BEGYO",
-      "rsi": 40.067219623718636,
-      "sma": 61.193970727537845
+      "symbol": "CTAS",
+      "rsi": 50.13822569823072,
+      "sma": 52.76660216900875
     },
     {
-      "symbol": "BFREN",
-      "rsi": 20.57438585336783,
-      "sma": 27.71753615884955
+      "symbol": "CTSH",
+      "rsi": 43.8022038028834,
+      "sma": 46.401290720196855
     },
     {
-      "symbol": "BIENY",
-      "rsi": 58.64635867095088,
-      "sma": 62.28753316747177
+      "symbol": "DXCM",
+      "rsi": 48.442968243015535,
+      "sma": 50.28993569729243
     },
     {
-      "symbol": "BMSTL",
-      "rsi": 62.80771858144537,
-      "sma": 70.03591128104982
+      "symbol": "FAST",
+      "rsi": 57.52183213688207,
+      "sma": 59.68140055700104
     },
     {
-      "symbol": "BORLS",
-      "rsi": 59.18782729251471,
-      "sma": 61.9810457467751
+      "symbol": "FTNT",
+      "rsi": 45.136359876480604,
+      "sma": 51.468256052788014
     },
     {
-      "symbol": "BRLSM",
-      "rsi": 51.178818402210084,
-      "sma": 51.66830324173718
+      "symbol": "GILD",
+      "rsi": 58.75644342293152,
+      "sma": 60.383376627972275
     },
     {
-      "symbol": "BUCIM",
-      "rsi": 46.754397784873426,
-      "sma": 46.79734373345647
+      "symbol": "INTU",
+      "rsi": 56.025357674045914,
+      "sma": 56.26880402803481
     },
     {
-      "symbol": "CELHA",
-      "rsi": 30.479920438148653,
-      "sma": 35.6067591255774
+      "symbol": "KDP",
+      "rsi": 38.74410644128835,
+      "sma": 47.47723173121485
     },
     {
-      "symbol": "CEMAS",
-      "rsi": 59.37318582913108,
-      "sma": 67.55498723251813
+      "symbol": "KHC",
+      "rsi": 39.053686455591546,
+      "sma": 41.012450654074456
     },
     {
-      "symbol": "CEMTS",
-      "rsi": 55.029027210474624,
-      "sma": 58.01578551509839
+      "symbol": "LIN",
+      "rsi": 47.85319047929693,
+      "sma": 52.94283154533557
     },
     {
-      "symbol": "CIMSA",
-      "rsi": 48.80999587281806,
-      "sma": 53.71882060447742
+      "symbol": "LULU",
+      "rsi": 33.129336298813215,
+      "sma": 39.70747900794513
     },
     {
-      "symbol": "CLEBI",
-      "rsi": 37.557336089353825,
-      "sma": 50.98511696986437
+      "symbol": "MDLZ",
+      "rsi": 47.28474540712155,
+      "sma": 50.81895790148056
     },
     {
-      "symbol": "DAPGM",
-      "rsi": 64.074237842732,
-      "sma": 65.97599554530404
+      "symbol": "MELI",
+      "rsi": 51.19438256080376,
+      "sma": 56.45242253047679
     },
     {
-      "symbol": "DCTTR",
-      "rsi": 48.598382995295246,
-      "sma": 54.57216259446724
+      "symbol": "MSTR",
+      "rsi": 48.75087782374623,
+      "sma": 54.88316050148947
     },
     {
-      "symbol": "DERHL",
-      "rsi": 46.41156409955199,
-      "sma": 61.581324313999716
+      "symbol": "NFLX",
+      "rsi": 54.966005553153245,
+      "sma": 62.61112209026856
     },
     {
-      "symbol": "DGATE",
-      "rsi": 61.0248223603385,
-      "sma": 61.15218151789685
+      "symbol": "ORLY",
+      "rsi": 56.86285395983792,
+      "sma": 63.83212395717068
     },
     {
-      "symbol": "DMRGD",
-      "rsi": 65.99917073680868,
-      "sma": 71.39629509823635
+      "symbol": "PAYX",
+      "rsi": 42.00757409729513,
+      "sma": 51.97721833665031
     },
     {
-      "symbol": "DNISI",
-      "rsi": 47.90908929073449,
-      "sma": 49.91022358347663
+      "symbol": "ROP",
+      "rsi": 35.29880763959844,
+      "sma": 48.57206662273925
     },
     {
-      "symbol": "DOAS",
-      "rsi": 46.1230317770703,
-      "sma": 49.887244604671785
+      "symbol": "TEAM",
+      "rsi": 40.2330768595379,
+      "sma": 44.44107129395735
     },
     {
-      "symbol": "DOBUR",
-      "rsi": 60.42261564820103,
-      "sma": 62.06255466807408
+      "symbol": "TMUS",
+      "rsi": 42.242325867089754,
+      "sma": 52.86787465752456
     },
     {
-      "symbol": "DYOBY",
-      "rsi": 29.26093146587199,
-      "sma": 39.93845096165352
+      "symbol": "TRI",
+      "rsi": 47.860463433530036,
+      "sma": 56.70787144872393
     },
     {
-      "symbol": "EFORC",
-      "rsi": 65.57961184232678,
-      "sma": 78.04239276146322
+      "symbol": "TTWO",
+      "rsi": 61.70009243229647,
+      "sma": 65.36123876279086
     },
     {
-      "symbol": "EGEPO",
-      "rsi": 58.191707137584245,
-      "sma": 59.615341549751996
+      "symbol": "VRSK",
+      "rsi": 37.196610690457746,
+      "sma": 51.77300962781416
     },
     {
-      "symbol": "ELITE",
-      "rsi": 48.633678409891054,
-      "sma": 49.424673284789144
-    },
-    {
-      "symbol": "EMKEL",
-      "rsi": 57.20262465844502,
-      "sma": 72.98158188742516
-    },
-    {
-      "symbol": "ENKAI",
-      "rsi": 61.40604464353488,
-      "sma": 61.77160555880655
-    },
-    {
-      "symbol": "ENTRA",
-      "rsi": 51.211268335125524,
-      "sma": 60.962028248848796
-    },
-    {
-      "symbol": "ESCAR",
-      "rsi": 38.15928025805719,
-      "sma": 55.52627795990746
-    },
-    {
-      "symbol": "ESEN",
-      "rsi": 60.10721372269847,
-      "sma": 75.39276409746083
-    },
-    {
-      "symbol": "FENER",
-      "rsi": 32.77500400941162,
-      "sma": 32.81609707423337
-    },
-    {
-      "symbol": "FORTE",
-      "rsi": 52.946680314408106,
-      "sma": 60.239669424088255
-    },
-    {
-      "symbol": "FROTO",
-      "rsi": 50.763796580318285,
-      "sma": 51.01693254761632
-    },
-    {
-      "symbol": "GENTS",
-      "rsi": 59.905827110902756,
-      "sma": 70.82456227344444
-    },
-    {
-      "symbol": "GIPTA",
-      "rsi": 63.44705166788184,
-      "sma": 79.3361804982019
-    },
-    {
-      "symbol": "GOLTS",
-      "rsi": 41.26149802890933,
-      "sma": 42.23476162595616
-    },
-    {
-      "symbol": "GRTHO",
-      "rsi": 61.28480703468491,
-      "sma": 66.24520946765615
-    },
-    {
-      "symbol": "GZNMI",
-      "rsi": 69.79522122924547,
-      "sma": 80.39928415697904
-    },
-    {
-      "symbol": "HUNER",
-      "rsi": 51.05105182507451,
-      "sma": 52.844487598218485
-    },
-    {
-      "symbol": "HURGZ",
-      "rsi": 59.73705857198506,
-      "sma": 61.63360710912868
-    },
-    {
-      "symbol": "INTEK",
-      "rsi": 39.079983423124744,
-      "sma": 43.16402707231343
-    },
-    {
-      "symbol": "ISKUR",
-      "rsi": 39.926035131639054,
-      "sma": 58.853628137275365
-    },
-    {
-      "symbol": "IZFAS",
-      "rsi": 65.24899807004898,
-      "sma": 67.14043396657583
-    },
-    {
-      "symbol": "KGYO",
-      "rsi": 93.78724769671325,
-      "sma": 96.82585553186836
-    },
-    {
-      "symbol": "KNFRT",
-      "rsi": 54.51027088015288,
-      "sma": 56.06198182492632
-    },
-    {
-      "symbol": "KRDMA",
-      "rsi": 44.49733999411505,
-      "sma": 60.221871102445355
-    },
-    {
-      "symbol": "KRDMB",
-      "rsi": 53.134328570655875,
-      "sma": 54.69244244078823
-    },
-    {
-      "symbol": "KSTUR",
-      "rsi": 43.36872620401259,
-      "sma": 53.39801245228317
-    },
-    {
-      "symbol": "KUYAS",
-      "rsi": 57.437434409678794,
-      "sma": 69.92469905898216
-    },
-    {
-      "symbol": "LIDER",
-      "rsi": 63.68780714541433,
-      "sma": 66.7432426959326
-    },
-    {
-      "symbol": "LINK",
-      "rsi": 48.702261772339625,
-      "sma": 52.62130170195558
-    },
-    {
-      "symbol": "LMKDC",
-      "rsi": 45.86199099393614,
-      "sma": 51.197360824839514
-    },
-    {
-      "symbol": "LOGO",
-      "rsi": 61.39534979039477,
-      "sma": 62.27372176515936
-    },
-    {
-      "symbol": "MAKTK",
-      "rsi": 59.98182500522196,
-      "sma": 66.4433723950969
-    },
-    {
-      "symbol": "MERCN",
-      "rsi": 56.027781410028844,
-      "sma": 61.8899028603477
-    },
-    {
-      "symbol": "NTGAZ",
-      "rsi": 62.143069693914505,
-      "sma": 63.97378655998166
-    },
-    {
-      "symbol": "OBAMS",
-      "rsi": 50.65986737520032,
-      "sma": 53.15810539406413
-    },
-    {
-      "symbol": "ORGE",
-      "rsi": 47.4679271806519,
-      "sma": 50.4436333146431
-    },
-    {
-      "symbol": "OTKAR",
-      "rsi": 50.362976406533576,
-      "sma": 50.54855142002184
-    },
-    {
-      "symbol": "OYAKC",
-      "rsi": 36.27118313117266,
-      "sma": 53.789420693679205
-    },
-    {
-      "symbol": "OZSUB",
-      "rsi": 52.543049217776854,
-      "sma": 56.68020922181007
-    },
-    {
-      "symbol": "PAPIL",
-      "rsi": 39.94986072854326,
-      "sma": 61.395013501276985
-    },
-    {
-      "symbol": "PGSUS",
-      "rsi": 44.896279940910254,
-      "sma": 51.44922628941702
-    },
-    {
-      "symbol": "QUAGR",
-      "rsi": 71.65653393842851,
-      "sma": 76.94340908821798
-    },
-    {
-      "symbol": "SANFM",
-      "rsi": 35.252204337269674,
-      "sma": 41.243973728284935
-    },
-    {
-      "symbol": "SEGMN",
-      "rsi": 55.537597861881316,
-      "sma": 56.091439854684246
-    },
-    {
-      "symbol": "SKYMD",
-      "rsi": 47.64416292646829,
-      "sma": 50.588013643809155
-    },
-    {
-      "symbol": "SUNTK",
-      "rsi": 55.51119975033997,
-      "sma": 56.50667392569865
-    },
-    {
-      "symbol": "TBORG",
-      "rsi": 58.99680424869115,
-      "sma": 59.50270394539813
-    },
-    {
-      "symbol": "TCKRC",
-      "rsi": 59.891060596097205,
-      "sma": 60.34101893626626
-    },
-    {
-      "symbol": "TEHOL",
-      "rsi": 63.308470434779814,
-      "sma": 66.40257294401049
-    },
-    {
-      "symbol": "TEKTU",
-      "rsi": 63.7454026926803,
-      "sma": 64.87134761104772
-    },
-    {
-      "symbol": "TEZOL",
-      "rsi": 43.52792926647205,
-      "sma": 49.20104015526322
-    },
-    {
-      "symbol": "TKFEN",
-      "rsi": 39.23756428322893,
-      "sma": 60.31821922730574
-    },
-    {
-      "symbol": "TKNSA",
-      "rsi": 41.059605200391246,
-      "sma": 45.296178843372395
-    },
-    {
-      "symbol": "TRCAS",
-      "rsi": 58.139481865523045,
-      "sma": 59.093663994399556
-    },
-    {
-      "symbol": "TRILC",
-      "rsi": 48.873590316877625,
-      "sma": 52.05195291703562
-    },
-    {
-      "symbol": "TTKOM",
-      "rsi": 54.309613768019226,
-      "sma": 54.37528185205042
-    },
-    {
-      "symbol": "TTRAK",
-      "rsi": 33.74326236042194,
-      "sma": 45.53608121003252
-    },
-    {
-      "symbol": "TUREX",
-      "rsi": 41.31703961266502,
-      "sma": 56.36796780484966
-    },
-    {
-      "symbol": "USAK",
-      "rsi": 50.258621478123295,
-      "sma": 62.518358103091046
-    },
-    {
-      "symbol": "VAKFN",
-      "rsi": 56.64377532596836,
-      "sma": 58.36013483839516
-    },
-    {
-      "symbol": "YAPRK",
-      "rsi": 31.207975488322973,
-      "sma": 41.68607284511288
-    },
-    {
-      "symbol": "YBTAS",
-      "rsi": 37.6505742266731,
-      "sma": 49.56255802563465
-    },
-    {
-      "symbol": "YEOTK",
-      "rsi": 32.999603403184096,
-      "sma": 39.272058069565965
-    },
-    {
-      "symbol": "ZRGYO",
-      "rsi": 57.51291910981383,
-      "sma": 70.19859796242838
+      "symbol": "VRTX",
+      "rsi": 40.27530314790333,
+      "sma": 47.02168055952242
     }
   ],
   "crossovers": [
     {
-      "symbol": "ADEL",
-      "current_rsi": 50.735814516851846,
-      "current_sma": 46.27217671833885,
-      "previous_rsi": 45.43696594613429,
-      "previous_sma": 45.86197136306581
-    },
-    {
-      "symbol": "AEFES",
-      "current_rsi": 47.86784998143212,
-      "current_sma": 43.33245135840341,
-      "previous_rsi": 41.37520713856901,
-      "previous_sma": 42.907514210755565
-    },
-    {
-      "symbol": "AFYON",
-      "current_rsi": 50.36166778525178,
-      "current_sma": 48.61025950059819,
-      "previous_rsi": 44.47086105658944,
-      "previous_sma": 48.5229764760711
-    },
-    {
-      "symbol": "AGHOL",
-      "current_rsi": 48.82703252884743,
-      "current_sma": 44.925310542808035,
-      "previous_rsi": 38.94277024929707,
-      "previous_sma": 44.707837306719796
-    },
-    {
-      "symbol": "AKBNK",
-      "current_rsi": 55.0766928677767,
-      "current_sma": 50.03172959329877,
-      "previous_rsi": 39.81618421069285,
-      "previous_sma": 49.81469450213734
-    },
-    {
-      "symbol": "AKGRT",
-      "current_rsi": 54.464287723553156,
-      "current_sma": 49.12383688274745,
-      "previous_rsi": 42.840647846612164,
-      "previous_sma": 49.07167118155034
-    },
-    {
-      "symbol": "AKSA",
-      "current_rsi": 61.14254077195862,
-      "current_sma": 50.998253968389236,
-      "previous_rsi": 49.24634970218766,
-      "previous_sma": 50.75160758730166
-    },
-    {
-      "symbol": "AKSGY",
-      "current_rsi": 60.74938553237193,
-      "current_sma": 52.167401627933046,
-      "previous_rsi": 49.727831930015114,
-      "previous_sma": 51.810657959025995
-    },
-    {
-      "symbol": "ALARK",
-      "current_rsi": 51.59103856700345,
-      "current_sma": 49.74734007426137,
-      "previous_rsi": 47.58088442045753,
-      "previous_sma": 49.330495903052935
-    },
-    {
-      "symbol": "ALBRK",
-      "current_rsi": 64.69466606619682,
-      "current_sma": 57.42910341194325,
-      "previous_rsi": 52.28864629536958,
-      "previous_sma": 56.99887976128397
-    },
-    {
-      "symbol": "ALFAS",
-      "current_rsi": 46.741058744925326,
-      "current_sma": 41.54634020211145,
-      "previous_rsi": 39.749764470775595,
-      "previous_sma": 41.402859621163664
-    },
-    {
-      "symbol": "ANHYT",
-      "current_rsi": 55.920206427788465,
-      "current_sma": 45.78340220156335,
-      "previous_rsi": 44.92551588961389,
-      "previous_sma": 45.50517151767282
-    },
-    {
-      "symbol": "ANSGR",
-      "current_rsi": 49.76906111059526,
-      "current_sma": 49.290047484971176,
-      "previous_rsi": 38.94471507890835,
-      "previous_sma": 49.51717326885323
-    },
-    {
-      "symbol": "ASTOR",
-      "current_rsi": 50.99763815119795,
-      "current_sma": 50.96795975388567,
-      "previous_rsi": 43.32423178000829,
-      "previous_sma": 51.14458683451643
-    },
-    {
-      "symbol": "ASUZU",
-      "current_rsi": 51.1567810812613,
-      "current_sma": 45.45402350047079,
-      "previous_rsi": 43.74666339881322,
-      "previous_sma": 44.99045957965389
-    },
-    {
-      "symbol": "AVPGY",
-      "current_rsi": 57.12219501166845,
-      "current_sma": 55.68806811693864,
-      "previous_rsi": 45.05621264082964,
-      "previous_sma": 55.703186814181684
-    },
-    {
-      "symbol": "AYCES",
-      "current_rsi": 50.197238658777124,
-      "current_sma": 46.34761640317505,
-      "previous_rsi": 44.47356924421144,
-      "previous_sma": 46.05860683747857
-    },
-    {
-      "symbol": "BAGFS",
-      "current_rsi": 61.82442859985961,
-      "current_sma": 59.2152565051911,
-      "previous_rsi": 56.9410306834438,
-      "previous_sma": 58.46171996250285
-    },
-    {
-      "symbol": "BANVT",
-      "current_rsi": 41.327551348015845,
-      "current_sma": 35.91047835378326,
-      "previous_rsi": 33.78530960450726,
-      "previous_sma": 35.70106156723455
-    },
-    {
-      "symbol": "BARMA",
-      "current_rsi": 57.98418898581645,
-      "current_sma": 52.197510979173494,
-      "previous_rsi": 48.873237213713026,
-      "previous_sma": 51.5754197673615
-    },
-    {
-      "symbol": "BIOEN",
-      "current_rsi": 61.73523272145428,
-      "current_sma": 55.74354191249572,
-      "previous_rsi": 54.14088507883133,
-      "previous_sma": 55.100742207000486
-    },
-    {
-      "symbol": "BJKAS",
-      "current_rsi": 32.50000546375743,
-      "current_sma": 26.41779801295279,
-      "previous_rsi": 25.352118548627814,
-      "previous_sma": 26.30289956762303
-    },
-    {
-      "symbol": "BOBET",
-      "current_rsi": 52.30963641176601,
-      "current_sma": 50.00993207836961,
-      "previous_rsi": 45.40643259065483,
-      "previous_sma": 49.66615750861272
-    },
-    {
-      "symbol": "BRISA",
-      "current_rsi": 54.61441144662806,
-      "current_sma": 45.39926017121747,
-      "previous_rsi": 44.764120194400256,
-      "previous_sma": 45.04781087987186
-    },
-    {
-      "symbol": "BRKVY",
-      "current_rsi": 62.43304835092153,
-      "current_sma": 59.39917617349926,
-      "previous_rsi": 54.194991177819844,
-      "previous_sma": 59.043918003683345
-    },
-    {
-      "symbol": "BRYAT",
-      "current_rsi": 55.834026885076746,
-      "current_sma": 52.46324487502004,
-      "previous_rsi": 49.71191178205202,
-      "previous_sma": 52.28025147898426
-    },
-    {
-      "symbol": "BTCIM",
-      "current_rsi": 54.03348644617827,
-      "current_sma": 48.15290596386425,
-      "previous_rsi": 47.55927560926251,
-      "previous_sma": 47.60456675519806
-    },
-    {
-      "symbol": "CCOLA",
-      "current_rsi": 51.80988699179225,
-      "current_sma": 46.61379762635093,
-      "previous_rsi": 43.06872309796136,
-      "previous_sma": 46.247539165352975
-    },
-    {
-      "symbol": "CMBTN",
-      "current_rsi": 50.506044419454604,
-      "current_sma": 45.9069038286152,
-      "previous_rsi": 45.32520325203252,
-      "previous_sma": 45.56680084205139
-    },
-    {
-      "symbol": "CMENT",
-      "current_rsi": 51.16801437556155,
-      "current_sma": 46.98109150835449,
-      "previous_rsi": 42.96326867519604,
-      "previous_sma": 46.66334913046633
-    },
-    {
-      "symbol": "CONSE",
-      "current_rsi": 59.62441238355058,
-      "current_sma": 55.95184081140133,
-      "previous_rsi": 51.99999809265137,
-      "previous_sma": 55.263578803112416
-    },
-    {
-      "symbol": "CUSAN",
-      "current_rsi": 55.21747263807431,
-      "current_sma": 52.69206556304111,
-      "previous_rsi": 52.28157054206248,
-      "previous_sma": 52.4620707518287
-    },
-    {
-      "symbol": "DARDL",
-      "current_rsi": 35.37117712980674,
-      "current_sma": 34.355630806748295,
-      "previous_rsi": 29.98696220251027,
-      "previous_sma": 34.54463697872038
-    },
-    {
-      "symbol": "DERIM",
-      "current_rsi": 57.204416849905854,
-      "current_sma": 54.22687005307926,
-      "previous_rsi": 51.820357070030916,
-      "previous_sma": 53.8158571158028
-    },
-    {
-      "symbol": "DGGYO",
-      "current_rsi": 46.54635648205021,
-      "current_sma": 43.542170473921125,
-      "previous_rsi": 39.051913864229114,
-      "previous_sma": 43.78360842019605
-    },
-    {
-      "symbol": "DZGYO",
-      "current_rsi": 44.94909940505507,
-      "current_sma": 43.41039385879152,
-      "previous_rsi": 40.59795304425822,
-      "previous_sma": 43.82973637186436
-    },
-    {
-      "symbol": "EDIP",
-      "current_rsi": 60.48576670275718,
-      "current_sma": 58.05800789822006,
-      "previous_rsi": 56.02175711378466,
-      "previous_sma": 57.58857855005002
-    },
-    {
-      "symbol": "EGEEN",
-      "current_rsi": 45.11862702795051,
-      "current_sma": 40.97275795294943,
-      "previous_rsi": 37.40267861448131,
-      "previous_sma": 40.94338862480311
-    },
-    {
-      "symbol": "EGGUB",
-      "current_rsi": 62.146831896583016,
-      "current_sma": 61.3829799037854,
-      "previous_rsi": 58.88033977308744,
-      "previous_sma": 61.02940004187662
-    },
-    {
-      "symbol": "EGPRO",
-      "current_rsi": 56.11665004456702,
-      "current_sma": 49.83709910423459,
-      "previous_rsi": 49.390791769654854,
-      "previous_sma": 49.44196683158297
-    },
-    {
-      "symbol": "EKGYO",
-      "current_rsi": 66.43102599037789,
-      "current_sma": 59.52140077236373,
-      "previous_rsi": 55.46174117576124,
-      "previous_sma": 59.05104662845832
-    },
-    {
-      "symbol": "ENERY",
-      "current_rsi": 69.44923836053091,
-      "current_sma": 67.0447915401378,
-      "previous_rsi": 66.07480089069546,
-      "previous_sma": 66.40672446122615
-    },
-    {
-      "symbol": "ERCB",
-      "current_rsi": 47.50849688292101,
-      "current_sma": 41.65414878025821,
-      "previous_rsi": 37.759754238336136,
-      "previous_sma": 41.44098380370506
-    },
-    {
-      "symbol": "EREGL",
-      "current_rsi": 60.64750989555298,
-      "current_sma": 52.81528318234737,
-      "previous_rsi": 51.588054777126295,
-      "previous_sma": 52.258840223058264
-    },
-    {
-      "symbol": "EUPWR",
-      "current_rsi": 45.494830202298225,
-      "current_sma": 44.997449044714195,
-      "previous_rsi": 37.17677048093569,
-      "previous_sma": 45.167083929027584
-    },
-    {
-      "symbol": "FMIZP",
-      "current_rsi": 53.02498524178343,
-      "current_sma": 50.87117424934577,
-      "previous_rsi": 47.80007554208341,
-      "previous_sma": 50.80656231601453
-    },
-    {
-      "symbol": "FORMT",
-      "current_rsi": 45.51918051579761,
-      "current_sma": 45.47428920784777,
-      "previous_rsi": 43.68031870695592,
-      "previous_sma": 45.81764447761355
-    },
-    {
-      "symbol": "FZLGY",
-      "current_rsi": 67.53802314555716,
-      "current_sma": 66.20615917909227,
-      "previous_rsi": 64.58888080769104,
-      "previous_sma": 66.2227804528116
-    },
-    {
-      "symbol": "GARAN",
-      "current_rsi": 58.29057377910758,
-      "current_sma": 52.62439716997911,
-      "previous_rsi": 44.73248467316454,
-      "previous_sma": 52.33616257813719
-    },
-    {
-      "symbol": "GARFA",
-      "current_rsi": 58.247934026036155,
-      "current_sma": 55.1167984319753,
-      "previous_rsi": 53.948849921202594,
-      "previous_sma": 54.39358582466409
-    },
-    {
-      "symbol": "GEDIK",
-      "current_rsi": 63.019630572089305,
-      "current_sma": 62.731258188286084,
-      "previous_rsi": 59.905816871542164,
-      "previous_sma": 62.33190300335368
-    },
-    {
-      "symbol": "GENIL",
-      "current_rsi": 60.81966999575177,
-      "current_sma": 60.80492504782769,
-      "previous_rsi": 59.34567170298969,
-      "previous_sma": 60.78036696274858
-    },
-    {
-      "symbol": "GESAN",
-      "current_rsi": 49.16784812207519,
-      "current_sma": 48.67889434428683,
-      "previous_rsi": 40.92645418197019,
-      "previous_sma": 48.73590672673565
-    },
-    {
-      "symbol": "GLCVY",
-      "current_rsi": 65.140121385925,
-      "current_sma": 63.78338234955876,
-      "previous_rsi": 58.4320475232059,
-      "previous_sma": 63.48121937243308
-    },
-    {
-      "symbol": "GLYHO",
-      "current_rsi": 69.55859879376989,
-      "current_sma": 62.535009880471044,
-      "previous_rsi": 61.49295118530477,
-      "previous_sma": 62.26817539457695
-    },
-    {
-      "symbol": "GOKNR",
-      "current_rsi": 53.86775379130347,
-      "current_sma": 48.00250891283775,
-      "previous_rsi": 44.66628712333343,
-      "previous_sma": 47.49357393449801
-    },
-    {
-      "symbol": "GOODY",
-      "current_rsi": 55.13616859763363,
-      "current_sma": 51.32649172671766,
-      "previous_rsi": 50.28322263367588,
-      "previous_sma": 50.94213503002722
-    },
-    {
-      "symbol": "GSDHO",
-      "current_rsi": 57.491858625368316,
-      "current_sma": 55.81309090613023,
-      "previous_rsi": 50.940168174382556,
-      "previous_sma": 55.65834098523617
-    },
-    {
-      "symbol": "GUBRF",
-      "current_rsi": 57.22750120825053,
-      "current_sma": 53.702289024447865,
-      "previous_rsi": 44.99895773464547,
-      "previous_sma": 53.83100721094745
-    },
-    {
-      "symbol": "GWIND",
-      "current_rsi": 51.629212640358844,
-      "current_sma": 45.910936283615314,
-      "previous_rsi": 44.289407668908844,
-      "previous_sma": 45.553904829700116
-    },
-    {
-      "symbol": "HALKB",
-      "current_rsi": 61.60198166845379,
-      "current_sma": 60.90309177658362,
-      "previous_rsi": 54.27682617993584,
-      "previous_sma": 60.68811562577027
-    },
-    {
-      "symbol": "HLGYO",
-      "current_rsi": 67.86874174603105,
-      "current_sma": 60.57226820987472,
-      "previous_rsi": 57.666927108673406,
-      "previous_sma": 60.058092391247726
-    },
-    {
-      "symbol": "HTTBT",
-      "current_rsi": 55.13685597948618,
-      "current_sma": 54.846409149096836,
-      "previous_rsi": 53.22642897630312,
-      "previous_sma": 54.872547541444874
-    },
-    {
-      "symbol": "ICBCT",
-      "current_rsi": 58.42970156722439,
-      "current_sma": 54.17794710354007,
-      "previous_rsi": 50.161988194931666,
-      "previous_sma": 53.71548266404395
-    },
-    {
-      "symbol": "IHAAS",
-      "current_rsi": 62.684523853409516,
-      "current_sma": 61.210577326956546,
-      "previous_rsi": 57.250804137560436,
-      "previous_sma": 60.82400129908314
-    },
-    {
-      "symbol": "IHLAS",
-      "current_rsi": 57.70392692665431,
-      "current_sma": 53.582837391463585,
-      "previous_rsi": 51.79856107703994,
-      "previous_sma": 53.54329098860434
-    },
-    {
-      "symbol": "INDES",
-      "current_rsi": 59.39024388825589,
-      "current_sma": 50.40381112979285,
-      "previous_rsi": 47.22837872564053,
-      "previous_sma": 49.8942166173313
-    },
-    {
-      "symbol": "IPEKE",
-      "current_rsi": 58.14977818927627,
-      "current_sma": 58.07024562721789,
-      "previous_rsi": 52.22634458781014,
-      "previous_sma": 57.91493015244171
-    },
-    {
-      "symbol": "ISCTR",
-      "current_rsi": 53.58590022394671,
-      "current_sma": 48.328890051635256,
-      "previous_rsi": 38.14158652599331,
-      "previous_sma": 48.12334723153187
-    },
-    {
-      "symbol": "ISDMR",
-      "current_rsi": 55.493627160230176,
-      "current_sma": 48.6232001202237,
-      "previous_rsi": 43.62612872242114,
-      "previous_sma": 48.41882594837839
-    },
-    {
-      "symbol": "ISFIN",
-      "current_rsi": 62.26749231696849,
-      "current_sma": 56.92198340519332,
-      "previous_rsi": 53.47498764740787,
-      "previous_sma": 56.68281504039146
-    },
-    {
-      "symbol": "ISGYO",
-      "current_rsi": 59.79440607536959,
-      "current_sma": 48.39541724263696,
-      "previous_rsi": 47.26420162437749,
-      "previous_sma": 48.17825009255077
-    },
-    {
-      "symbol": "ISMEN",
-      "current_rsi": 58.17254026706899,
-      "current_sma": 53.30277400426018,
-      "previous_rsi": 44.563831601894904,
-      "previous_sma": 53.16425459789825
-    },
-    {
-      "symbol": "IZENR",
-      "current_rsi": 63.68343109963253,
-      "current_sma": 62.105578885031306,
-      "previous_rsi": 59.00140519400345,
-      "previous_sma": 61.61577226062172
-    },
-    {
-      "symbol": "JANTS",
-      "current_rsi": 48.54354962916166,
-      "current_sma": 42.16284897416269,
-      "previous_rsi": 41.68065047170975,
-      "previous_sma": 42.12878531013461
-    },
-    {
-      "symbol": "KARTN",
-      "current_rsi": 50.26343521188494,
-      "current_sma": 46.11370382479331,
-      "previous_rsi": 39.734797060879295,
-      "previous_sma": 45.98233516360354
-    },
-    {
-      "symbol": "KAYSE",
-      "current_rsi": 53.34773086459504,
-      "current_sma": 47.18785352629683,
-      "previous_rsi": 46.08971899579406,
-      "previous_sma": 46.4920543590572
-    },
-    {
-      "symbol": "KCHOL",
-      "current_rsi": 55.531438583027224,
-      "current_sma": 47.668425912969234,
-      "previous_rsi": 45.2241039134099,
-      "previous_sma": 47.27358943730835
-    },
-    {
-      "symbol": "KENT",
-      "current_rsi": 49.35560859188544,
-      "current_sma": 44.89545359155466,
-      "previous_rsi": 42.51599147121536,
-      "previous_sma": 44.61936150682695
-    },
-    {
-      "symbol": "KLGYO",
-      "current_rsi": 62.330318883851234,
-      "current_sma": 56.99973460930381,
-      "previous_rsi": 54.39672946210077,
-      "previous_sma": 56.56384696984835
-    },
-    {
-      "symbol": "KLKIM",
-      "current_rsi": 53.27462783074646,
-      "current_sma": 51.69041673313218,
-      "previous_rsi": 46.64393842195269,
-      "previous_sma": 51.836799708510135
-    },
-    {
-      "symbol": "KLSYN",
-      "current_rsi": 54.2591368265511,
-      "current_sma": 52.580794205201116,
-      "previous_rsi": 47.48289326464674,
-      "previous_sma": 52.33766996995922
-    },
-    {
-      "symbol": "KONYA",
-      "current_rsi": 48.5453908166842,
-      "current_sma": 42.770837865400956,
-      "previous_rsi": 42.21298369043813,
-      "previous_sma": 42.430223584955236
-    },
-    {
-      "symbol": "KOZAA",
-      "current_rsi": 56.46114663225707,
-      "current_sma": 56.353352746660505,
-      "previous_rsi": 52.48508946322067,
-      "previous_sma": 56.18948400323458
-    },
-    {
-      "symbol": "KOZAL",
-      "current_rsi": 53.765323437242245,
-      "current_sma": 52.52325612290059,
-      "previous_rsi": 45.05797954924332,
-      "previous_sma": 52.38218192590925
-    },
-    {
-      "symbol": "KRDMD",
-      "current_rsi": 49.665925137120944,
-      "current_sma": 48.73132534203436,
-      "previous_rsi": 40.06143102116341,
-      "previous_sma": 48.920761987521125
-    },
-    {
-      "symbol": "KRVGD",
-      "current_rsi": 59.28853909518537,
-      "current_sma": 47.7414911402157,
-      "previous_rsi": 46.332045105850945,
-      "previous_sma": 47.0207006591649
-    },
-    {
-      "symbol": "KUTPO",
-      "current_rsi": 61.52133824407837,
-      "current_sma": 56.98046065168035,
-      "previous_rsi": 56.297368125580014,
-      "previous_sma": 56.56880202033796
-    },
-    {
-      "symbol": "LIDFA",
-      "current_rsi": 63.272726027433485,
-      "current_sma": 58.18440486874504,
-      "previous_rsi": 53.859649753893464,
-      "previous_sma": 57.38493660749814
-    },
-    {
-      "symbol": "LKMNH",
-      "current_rsi": 50.42952543123608,
-      "current_sma": 48.54324225924347,
-      "previous_rsi": 43.526965490431195,
-      "previous_sma": 48.57472659978689
-    },
-    {
-      "symbol": "LRSHO",
-      "current_rsi": 63.762102691111174,
-      "current_sma": 63.03663468354892,
-      "previous_rsi": 60.72443186989524,
-      "previous_sma": 62.24665497168639
-    },
-    {
-      "symbol": "MACKO",
-      "current_rsi": 66.93590562378327,
-      "current_sma": 62.92770723169752,
-      "previous_rsi": 59.02739876135429,
-      "previous_sma": 62.478901602485934
-    },
-    {
-      "symbol": "MARBL",
-      "current_rsi": 57.727077536227725,
-      "current_sma": 53.980479802226014,
-      "previous_rsi": 52.87216851888588,
-      "previous_sma": 53.11466598210199
-    },
-    {
-      "symbol": "MARTI",
-      "current_rsi": 55.31914918524069,
-      "current_sma": 50.52100098360144,
-      "previous_rsi": 49.52531695709718,
-      "previous_sma": 50.03400326519256
-    },
-    {
-      "symbol": "MGROS",
-      "current_rsi": 51.44211208852305,
-      "current_sma": 49.25470860781113,
-      "previous_rsi": 42.05208175230054,
-      "previous_sma": 49.04649789906486
-    },
-    {
-      "symbol": "MHRGY",
-      "current_rsi": 61.63954020391124,
-      "current_sma": 57.6840399181883,
-      "previous_rsi": 55.301093801750746,
-      "previous_sma": 57.10445651489834
-    },
-    {
-      "symbol": "MIATK",
-      "current_rsi": 50.54222796759926,
-      "current_sma": 46.728844180630716,
-      "previous_rsi": 46.28347955288255,
-      "previous_sma": 46.34432272922307
-    },
-    {
-      "symbol": "MOBTL",
-      "current_rsi": 62.681639060082745,
-      "current_sma": 60.666040844428935,
-      "previous_rsi": 59.236948816604404,
-      "previous_sma": 59.77347159719283
-    },
-    {
-      "symbol": "MPARK",
-      "current_rsi": 53.59301544660846,
-      "current_sma": 48.243686399068785,
-      "previous_rsi": 47.23587223587223,
-      "previous_sma": 47.88614187501607
-    },
-    {
-      "symbol": "MTRKS",
-      "current_rsi": 60.41675333352385,
-      "current_sma": 54.905124559956604,
-      "previous_rsi": 48.576055381347196,
-      "previous_sma": 54.71232107653492
-    },
-    {
-      "symbol": "NTHOL",
-      "current_rsi": 64.8635469746359,
-      "current_sma": 51.61039655141179,
-      "previous_rsi": 48.97172352046485,
-      "previous_sma": 51.21802812568758
-    },
-    {
-      "symbol": "OZKGY",
-      "current_rsi": 62.03703747729505,
-      "current_sma": 52.39376196441781,
-      "previous_rsi": 51.57629249923754,
-      "previous_sma": 52.008429862113935
-    },
-    {
-      "symbol": "PAGYO",
-      "current_rsi": 65.88133786308656,
-      "current_sma": 62.64206273957566,
-      "previous_rsi": 60.46299750481593,
-      "previous_sma": 62.46043564737417
-    },
-    {
-      "symbol": "PENTA",
-      "current_rsi": 54.062100210343765,
-      "current_sma": 49.11454140637895,
-      "previous_rsi": 47.500983324025526,
-      "previous_sma": 48.77772181530351
-    },
-    {
-      "symbol": "PLTUR",
-      "current_rsi": 55.32897958151621,
-      "current_sma": 49.239213234185435,
-      "previous_rsi": 44.4315077125582,
-      "previous_sma": 48.990989463706335
-    },
-    {
-      "symbol": "PRKME",
-      "current_rsi": 51.84821885654548,
-      "current_sma": 48.82282705774153,
-      "previous_rsi": 45.03271851693379,
-      "previous_sma": 48.50625966019278
-    },
-    {
-      "symbol": "PSGYO",
-      "current_rsi": 65.0375926034313,
-      "current_sma": 62.57704938610004,
-      "previous_rsi": 60.830323639646174,
-      "previous_sma": 62.08550618662274
-    },
-    {
-      "symbol": "RAYSG",
-      "current_rsi": 51.07874862788867,
-      "current_sma": 37.11821824581059,
-      "previous_rsi": 36.46162769915318,
-      "previous_sma": 36.716689147438906
-    },
-    {
-      "symbol": "RYGYO",
-      "current_rsi": 61.14995915206731,
-      "current_sma": 57.46317285282541,
-      "previous_rsi": 55.36986890647837,
-      "previous_sma": 57.12442411417125
-    },
-    {
-      "symbol": "RYSAS",
-      "current_rsi": 51.34665534888594,
-      "current_sma": 48.64774761015138,
-      "previous_rsi": 43.66497793321473,
-      "previous_sma": 48.71408068004429
-    },
-    {
-      "symbol": "SAFKR",
-      "current_rsi": 67.83875525673808,
-      "current_sma": 65.80277844594556,
-      "previous_rsi": 60.93636187734642,
-      "previous_sma": 65.57612695394425
-    },
-    {
-      "symbol": "SAHOL",
-      "current_rsi": 52.24266839426295,
-      "current_sma": 47.10066305020186,
-      "previous_rsi": 38.20713428299938,
-      "previous_sma": 46.89205214393854
-    },
-    {
-      "symbol": "SASA",
-      "current_rsi": 49.04701513194163,
-      "current_sma": 46.06288474097927,
-      "previous_rsi": 44.51074072594627,
-      "previous_sma": 45.514040940131885
-    },
-    {
-      "symbol": "SEGYO",
-      "current_rsi": 52.9986038714519,
-      "current_sma": 49.54350421286027,
-      "previous_rsi": 44.117649740001056,
-      "previous_sma": 49.557662148735524
-    },
-    {
-      "symbol": "SELEC",
-      "current_rsi": 59.389039281878674,
-      "current_sma": 55.58837949440451,
-      "previous_rsi": 53.70156060338222,
-      "previous_sma": 55.322828019368316
-    },
-    {
-      "symbol": "SISE",
-      "current_rsi": 51.39913021663779,
-      "current_sma": 45.86112253355845,
-      "previous_rsi": 43.25549311964223,
-      "previous_sma": 45.46754459558807
-    },
-    {
-      "symbol": "SMRTG",
-      "current_rsi": 43.72523376354073,
-      "current_sma": 38.763084102444836,
-      "previous_rsi": 34.91812356816624,
-      "previous_sma": 38.59250405264296
-    },
-    {
-      "symbol": "SNGYO",
-      "current_rsi": 68.40077218221961,
-      "current_sma": 61.966109259010544,
-      "previous_rsi": 59.81308606964336,
-      "previous_sma": 61.510186349758996
-    },
-    {
-      "symbol": "SOKE",
-      "current_rsi": 54.90936530321759,
-      "current_sma": 45.64849048299152,
-      "previous_rsi": 45.02724825290193,
-      "previous_sma": 45.160045050610506
-    },
-    {
-      "symbol": "SONME",
-      "current_rsi": 59.7449089943007,
-      "current_sma": 58.40095019331981,
-      "previous_rsi": 56.64221786330687,
-      "previous_sma": 58.05317658656123
-    },
-    {
-      "symbol": "TAVHL",
-      "current_rsi": 52.99756504825209,
-      "current_sma": 47.17004949365546,
-      "previous_rsi": 43.60676495671274,
-      "previous_sma": 47.09909504283994
-    },
-    {
-      "symbol": "TCELL",
-      "current_rsi": 57.09323960072553,
-      "current_sma": 50.3248794864173,
-      "previous_rsi": 44.71529408882993,
-      "previous_sma": 49.92767623041202
-    },
-    {
-      "symbol": "THYAO",
-      "current_rsi": 53.001243105698045,
-      "current_sma": 51.20207251343165,
-      "previous_rsi": 44.5683830478113,
-      "previous_sma": 51.05839777362954
-    },
-    {
-      "symbol": "TNZTP",
-      "current_rsi": 56.60437664912878,
-      "current_sma": 56.35123873972751,
-      "previous_rsi": 51.14353798135804,
-      "previous_sma": 55.887542476745885
-    },
-    {
-      "symbol": "TSKB",
-      "current_rsi": 59.60969849002505,
-      "current_sma": 49.86330152298326,
-      "previous_rsi": 44.53915757885812,
-      "previous_sma": 49.41476029172406
-    },
-    {
-      "symbol": "TURGG",
-      "current_rsi": 53.850004167016,
-      "current_sma": 51.517246887246095,
-      "previous_rsi": 49.218052458793736,
-      "previous_sma": 51.07426893268319
-    },
-    {
-      "symbol": "TURSG",
-      "current_rsi": 65.6734692205849,
-      "current_sma": 58.49847400383058,
-      "previous_rsi": 51.647483043639156,
-      "previous_sma": 58.28439167863954
-    },
-    {
-      "symbol": "UFUK",
-      "current_rsi": 70.24045885726892,
-      "current_sma": 64.65120239005066,
-      "previous_rsi": 60.70556309362279,
-      "previous_sma": 63.97730202405206
-    },
-    {
-      "symbol": "ULKER",
-      "current_rsi": 51.42167455722164,
-      "current_sma": 47.5481295699908,
-      "previous_rsi": 40.22570767998621,
-      "previous_sma": 47.149496243478
-    },
-    {
-      "symbol": "ULUFA",
-      "current_rsi": 59.59524296029445,
-      "current_sma": 52.52395260451958,
-      "previous_rsi": 51.31122438908383,
-      "previous_sma": 52.00356029881762
-    },
-    {
-      "symbol": "UNLU",
-      "current_rsi": 55.560951011855714,
-      "current_sma": 52.98677931789203,
-      "previous_rsi": 47.742512058841484,
-      "previous_sma": 52.61352552521423
-    },
-    {
-      "symbol": "VAKBN",
-      "current_rsi": 53.2911398746594,
-      "current_sma": 52.40168086369973,
-      "previous_rsi": 41.31534607047231,
-      "previous_sma": 52.42868233875068
-    },
-    {
-      "symbol": "VERUS",
-      "current_rsi": 53.13460723926225,
-      "current_sma": 52.274568522459454,
-      "previous_rsi": 50.993287771340185,
-      "previous_sma": 51.7459180330061
-    },
-    {
-      "symbol": "VESTL",
-      "current_rsi": 36.95230844644056,
-      "current_sma": 33.24937144123623,
-      "previous_rsi": 28.185390316015727,
-      "previous_sma": 33.21985078484368
-    },
-    {
-      "symbol": "VKGYO",
-      "current_rsi": 59.52380923418544,
-      "current_sma": 56.33884328840154,
-      "previous_rsi": 50.326797029149084,
-      "previous_sma": 56.226162117481
-    },
-    {
-      "symbol": "YKBNK",
-      "current_rsi": 60.16869487799606,
-      "current_sma": 50.14009108755533,
-      "previous_rsi": 43.90651317712314,
-      "previous_sma": 49.670741548760056
-    },
-    {
-      "symbol": "YYLGD",
-      "current_rsi": 57.09117201944529,
-      "current_sma": 49.401950806773,
-      "previous_rsi": 48.577526195860834,
-      "previous_sma": 48.62071707339224
+      "symbol": "EXC",
+      "current_rsi": 62.31920576431103,
+      "current_sma": 62.13363101944545,
+      "previous_rsi": 60.6813666441271,
+      "previous_sma": 62.226816082626556
+    },
+    {
+      "symbol": "HON",
+      "current_rsi": 52.53586956912948,
+      "current_sma": 51.00768333865436,
+      "previous_rsi": 48.530669764559406,
+      "previous_sma": 51.07371078154415
+    },
+    {
+      "symbol": "ISRG",
+      "current_rsi": 54.56543125917147,
+      "current_sma": 47.155472997205536,
+      "previous_rsi": 46.16355325780536,
+      "previous_sma": 47.05649188957211
+    },
+    {
+      "symbol": "SBUX",
+      "current_rsi": 44.99903643384878,
+      "current_sma": 44.971858935266084,
+      "previous_rsi": 44.10891618414455,
+      "previous_sma": 45.20356286068679
     }
   ]
 }
